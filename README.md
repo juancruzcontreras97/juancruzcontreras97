@@ -1,4 +1,4 @@
-Hola, soy Juan Cruz Contreras.
+#Hola, soy Juan Cruz Contreras.
 
 Actualmente estoy estudiando Ingeniería en Informática en la Universidad FASTA Mar del Plata, transitando el tercer año de la carrera.
 
